@@ -1,0 +1,338 @@
+.frame-div,
+.rectangle-div,
+.web-home-page-1-child,
+.web-home-page-1-inner,
+.web-home-page-1-item {
+  position: absolute;
+  top: 8.19rem;
+  left: 8.63rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 72.75rem;
+  height: 25.69rem;
+}
+.frame-div,
+.rectangle-div,
+.web-home-page-1-inner,
+.web-home-page-1-item {
+  top: 35.06rem;
+  border-radius: var(--br-7xs);
+  height: 25.75rem;
+}
+.frame-div,
+.rectangle-div,
+.web-home-page-1-inner {
+  top: 62.63rem;
+}
+.frame-div,
+.rectangle-div {
+  top: 90.19rem;
+}
+.frame-div {
+  top: 1.13rem;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 11.69rem;
+  height: 3.44rem;
+}
+.our-products,
+.our-products1 {
+  position: absolute;
+  top: 5.31rem;
+  left: 8.81rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.2px;
+  line-height: 2.25rem;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 21rem;
+}
+.our-products1 {
+  top: 1.75rem;
+  left: 10.38rem;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-white);
+  width: 8.56rem;
+  height: 2rem;
+}
+.loginregsiter {
+  position: relative;
+  line-height: 1.38rem;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 10.38rem;
+  height: 1.38rem;
+  flex-shrink: 0;
+}
+.loginregsiter-wrapper {
+  position: absolute;
+  top: 1.75rem;
+  right: 8.63rem;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(-87.23deg, #004165 30.69%, #85d3ff);
+  width: 11.75rem;
+  height: 3.69rem;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xs) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: #f6f6f6;
+}
+.aceofnet-i3em9pgzkzw-unsplash-icon {
+  position: absolute;
+  top: 8.63rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.44rem;
+  height: 24.69rem;
+  object-fit: cover;
+}
+.web-home-page-1-child1 {
+  position: absolute;
+  top: 19.63rem;
+  left: 9.75rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.starting-from-rs {
+  position: absolute;
+  top: 9.06rem;
+  left: 0.01rem;
+  line-height: 1rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 10.44rem;
+  height: 1rem;
+}
+.experiential-tourism-is {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 1.38rem;
+  display: inline-block;
+  width: 24rem;
+  height: 7.69rem;
+}
+.starting-from-rs-500-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24rem;
+  height: 10.06rem;
+}
+.experiential-tourism,
+.group-div {
+  position: absolute;
+  top: 22.44rem;
+  left: 10.31rem;
+  width: 24rem;
+  height: 10.06rem;
+}
+.experiential-tourism {
+  top: 20.38rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 20.88rem;
+  height: 1rem;
+}
+.sehajpal-singh-8uqj1-l3hzk-uns-icon {
+  position: absolute;
+  top: 35.5rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.25rem;
+  height: 24.81rem;
+  object-fit: cover;
+}
+.web-home-page-1-child2 {
+  position: absolute;
+  top: 46.69rem;
+  left: 9.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.spiritual-tourism-involves {
+  margin: 0;
+}
+.spiritual-tourism-involves-container {
+  line-height: 1.38rem;
+  display: inline-block;
+  white-space: pre-wrap;
+}
+.spiritual-tourism-involves-container,
+.spiritual-tourism-involves-tra-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.19rem;
+  height: 7rem;
+}
+.web-home-page-1-inner1 {
+  position: absolute;
+  top: 49.88rem;
+  left: 10.25rem;
+  width: 23.19rem;
+  height: 7rem;
+}
+.spiritual-tourism,
+.starting-from-rs1 {
+  position: absolute;
+  left: 10.25rem;
+  display: inline-block;
+}
+.spiritual-tourism {
+  top: 47.56rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  width: 17.5rem;
+  height: 1.06rem;
+}
+.starting-from-rs1 {
+  top: 58.19rem;
+  line-height: 1rem;
+  width: 11.06rem;
+  height: 1.13rem;
+}
+.national-cancer-institute-701-icon {
+  position: absolute;
+  top: 63.13rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.25rem;
+  height: 24.75rem;
+  object-fit: cover;
+}
+.web-home-page-1-child3 {
+  position: absolute;
+  top: 74.25rem;
+  left: 9.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.medical-tourism-refers {
+  line-height: 1.38rem;
+  display: inline-block;
+}
+.medical-tourism-refers,
+.medical-tourism-refers-to-the-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.88rem;
+  height: 8.06rem;
+}
+.web-home-page-1-inner2 {
+  position: absolute;
+  top: 76.88rem;
+  left: 10.25rem;
+  width: 23.88rem;
+  height: 8.06rem;
+}
+.medical-tourism,
+.starting-from-rs2 {
+  position: absolute;
+  top: 85.88rem;
+  left: 10.25rem;
+  line-height: 1rem;
+  display: inline-block;
+  width: 11.63rem;
+  height: 1.13rem;
+}
+.medical-tourism {
+  top: 75.13rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  width: 17.31rem;
+  height: 1.44rem;
+}
+.vincent-van-zalinge-vk9bntxots-icon {
+  position: absolute;
+  top: 90.69rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.25rem;
+  height: 24.88rem;
+  object-fit: cover;
+}
+.web-home-page-1-child4 {
+  position: absolute;
+  top: 101.88rem;
+  left: 9.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.wildlife-tourism-is {
+  line-height: 1.38rem;
+  display: inline-block;
+}
+.wildlife-tourism-is,
+.wildlife-tourism-is-a-form-of-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.88rem;
+  height: 7rem;
+}
+.web-home-page-1-inner3 {
+  position: absolute;
+  top: 105.25rem;
+  left: 10.25rem;
+  width: 23.88rem;
+  height: 7rem;
+}
+.starting-from-rs3,
+.wildlife-tourism {
+  position: absolute;
+  left: 10.25rem;
+  display: inline-block;
+  color: var(--color-gray-200);
+}
+.wildlife-tourism {
+  top: 103rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  width: 19.31rem;
+  height: 1.44rem;
+}
+.starting-from-rs3 {
+  top: 113.44rem;
+  line-height: 1rem;
+  width: 15.06rem;
+  height: 1.13rem;
+}
+.web-home-page-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 117.13rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

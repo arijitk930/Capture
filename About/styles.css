@@ -1,0 +1,231 @@
+.download-3-icon {
+    position: absolute;
+    top: 13px;
+    right: 23px;
+    border-radius: 71px;
+    width: 42px;
+    height: 42px;
+    object-fit: cover;
+  }
+  .careers {
+    position: relative;
+    letter-spacing: 0.2px;
+    line-height: 36px;
+    font-weight: 600;
+  }
+  .careers-wrapper {
+    position: absolute;
+    top: 57px;
+    left: 209px;
+    border-radius: var(--br-81xl);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 119px;
+    height: 47px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-xl);
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #000;
+  }
+  .about-us-us {
+    position: relative;
+    letter-spacing: 0.2px;
+    line-height: 36px;
+    font-weight: 600;
+    display: inline-block;
+    width: 96px;
+    height: 35px;
+    flex-shrink: 0;
+  }
+  .about-us-us-wrapper,
+  .web-about-us-child {
+    position: absolute;
+    top: 57px;
+    border-radius: var(--br-81xl);
+    border: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    height: 47px;
+  }
+  .about-us-us-wrapper {
+    left: 328px;
+    background-color: #004165;
+    width: 126px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-3xs) var(--padding-xl);
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+  }
+  .web-about-us-child {
+    left: 20px;
+    width: 188px;
+  }
+  .web-about-us-item {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    width: 48px;
+    height: 51px;
+    object-fit: cover;
+  }
+  .our-products {
+    top: 64px;
+    left: 46px;
+    letter-spacing: 0.2px;
+    line-height: 36px;
+    width: 136px;
+    height: 33px;
+    cursor: pointer;
+  }
+  .about-us,
+  .content-style-export,
+  .our-products {
+    position: absolute;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .about-us {
+    top: 122px;
+    left: 27px;
+    font-size: 48px;
+    letter-spacing: 0.2px;
+    line-height: 36px;
+    width: 225px;
+  }
+  .content-style-export {
+    top: 38px;
+    left: 0;
+    line-height: 22px;
+    width: 553px;
+    height: 430px;
+  }
+  .frame-child {
+    position: relative;
+    border-radius: 2px;
+    width: 167px;
+    height: 253px;
+    object-fit: cover;
+  }
+  .frame-item,
+  .rectangle-wrapper {
+    border-radius: var(--br-6xs);
+    width: 167px;
+  }
+  .rectangle-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 286px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-item {
+    position: relative;
+    height: 253px;
+    object-fit: cover;
+  }
+  .rectangle-container {
+    position: absolute;
+    top: 186px;
+    left: 203px;
+    width: 167px;
+    height: 287px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 407px;
+    width: 176px;
+    height: 286px;
+  }
+  .frame-inner,
+  .rectangle-icon {
+    position: relative;
+    border-radius: var(--br-6xs);
+    width: 167px;
+    height: 309px;
+    object-fit: cover;
+  }
+  .rectangle-icon {
+    height: 284px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 164.13px;
+    left: 609.83px;
+    width: 167.17px;
+    height: 542.88px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+  }
+  .frame-parent {
+    position: absolute;
+    top: 0;
+    left: 613px;
+    width: 777px;
+    height: 707px;
+  }
+  .content-style-export-device-li-parent {
+    position: absolute;
+    top: 158px;
+    left: 27px;
+    width: 1390px;
+    height: 707px;
+    font-size: 16px;
+    color: #29295f;
+  }
+  .experiential-tourism-2-icon,
+  .images-9-icon,
+  .images-9-icon1,
+  .unnamed-2-icon {
+    position: absolute;
+    top: 488px;
+    left: 1046px;
+    border-radius: var(--br-6xs);
+    width: 179px;
+    height: 286px;
+    object-fit: cover;
+  }
+  .experiential-tourism-2-icon,
+  .images-9-icon,
+  .images-9-icon1 {
+    top: 158px;
+    height: 287px;
+  }
+  .images-9-icon,
+  .images-9-icon1 {
+    top: 673px;
+    left: 844px;
+    width: 177px;
+  }
+  .images-9-icon1 {
+    top: 488px;
+    left: 642px;
+    height: 286px;
+  }
+  .web-about-us {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-100);
+    font-family: var(--font-poppins);
+  }
+  
